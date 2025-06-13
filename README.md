@@ -5,7 +5,7 @@
 <img width="960" alt="inbound" src="https://github.com/user-attachments/assets/75329d42-c70b-40ce-aa37-ff31d5b5b303" />
   successful ping from the Web-Server to the DB-Server
   <img width="507" alt="resulttttt" src="https://github.com/user-attachments/assets/64c307d6-d3fe-4a04-9cd6-0853ae4d2fa8" />
-  The Public IP address of your Web-Server so I can verify it's running.
+  The Public IP address of Web-Server
   <img width="959" alt="webserver" src="https://github.com/user-attachments/assets/027abbb0-04fc-490d-aabc-8ab18766f968" />
 
 
